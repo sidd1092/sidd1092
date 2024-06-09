@@ -27,7 +27,7 @@ Reach out for collaborating on projects, web ideas, sci-fi marathons, or just fo
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 
 ## 📊 Siddhant Srivastava 's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kks007&show_icons=true&hide=issues&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd1092&show_icons=true&hide=issues&theme=dark)
 ![Total Stars Earned](https://img.shields.io/badge/Total%20Stars%20Earned-3-green)
 ![Total Commits](https://img.shields.io/badge/Total%20Commits%20(2024)-213-blue)
 ![Total PRs](https://img.shields.io/badge/Total%20PRs-39-orange)
