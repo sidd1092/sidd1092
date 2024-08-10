@@ -19,8 +19,5 @@ Reach out for collaborating on projects, web ideas, sci-fi marathons, or just fo
 ## 📊 Siddhant Srivastava 's GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidd1092&show_icons=true&hide=issues&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidd1092&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidd1092&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ![GitHub Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
